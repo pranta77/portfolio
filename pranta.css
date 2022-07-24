@@ -32,9 +32,14 @@
     color: white;
     font-weight: 500;
 }
+.wwb{
+    font-size: 50px;
+    color: white;
+    font-weight: 500;
+}
 .pic-1 img{
-width: 500px;
-height: 600px;
+width: 400px;
+height: 500px;
 border-radius: 50px;
 margin: 50px;
 }
@@ -54,7 +59,7 @@ margin: 50px;
 }
 .meet{
     background-color:tomato;
-    padding: 10px 20px;
+    padding: 10px 15px;
     border-radius: 10px;
     cursor: pointer;
 }
@@ -70,8 +75,8 @@ margin: 50px;
     
 }
 .pic-2 img{
-    width: 500px;
-    height: 600px;
+    width: 400px;
+    height: 500px;
     border-radius: 50px;
     margin: 50px;
 }
@@ -125,15 +130,18 @@ margin: 50px;
     }
     .pic-1 img{
         width: 350px;
-        height: 400px;
+        height: 500px;
+        /* margin-bottom: 140%; */
     }
     .pic-2 img{
         width: 350px;
-        height: 400px;
+        height: 500px;
+        margin-top: 400px;
     }
     .experince-section{
         flex-direction: column;
     }
-    .wv {margin-top: 60%;}
+    .wv {
+        margin-top: 200%;}
   }
   
